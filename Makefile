@@ -1,4 +1,3 @@
-USERNAME=imagerss
 TAG=$(USERNAME)/hello-world-printer
 deps:
 	pip install -r requirements.txt
